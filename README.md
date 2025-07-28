@@ -8,7 +8,7 @@ A simple and fun mobile app built with React Native where users try to guess a r
 - Responsive layout
 - Interactive feedback
 
-  ## Built With
+## Built With
 - React Native
 - Expo
 
