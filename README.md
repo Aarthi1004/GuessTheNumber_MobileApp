@@ -13,6 +13,6 @@ A simple and fun mobile app built with React Native where users try to guess a r
 - Expo
 
 This project was built while learning from the Udemy course "**React Native -The Practical Guide [2025]**"
-Special thanks to ** Maximilian Schwarzmüller** for the excellent teaching and guidance!
+Special thanks to  **Maximilian Schwarzmüller** for the excellent teaching and guidance!
 
 
